@@ -1,2 +1,2 @@
 # blog-platzi
-Cusro de backend en Rust
+Curso de backend en Rust
